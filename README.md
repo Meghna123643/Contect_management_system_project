@@ -1,4 +1,4 @@
-# Contect_management_system_project
+# Contact_management_system_project
 This is a simple Contact Management System built using Python. It allows users to add, view, search, update, and delete contact information. The project uses file handling to store contact data persistently in a text file and organizes the logic using functions for better modularity and readability.
 
 🔧 Features:
